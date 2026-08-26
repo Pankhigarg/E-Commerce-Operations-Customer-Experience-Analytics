@@ -1,0 +1,15 @@
+{
+    "total_revenue_brl": 15421082.85,
+    "total_delivered_orders": 96470,
+    "average_delivery_days": 12.1,
+    "median_delivery_days": 10.0,
+    "overall_average_review_score": 4.16,
+    "percentage_late_deliveries": 6.8,
+    "top_3_categories_by_revenue": [
+        "health_beauty",
+        "watches_gifts",
+        "bed_bath_table"
+    ],
+    "single_order_customer_percentage": 97.0,
+    "median_seller_processing_days": 1.0
+}

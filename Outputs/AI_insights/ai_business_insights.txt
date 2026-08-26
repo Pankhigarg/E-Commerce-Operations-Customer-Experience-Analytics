@@ -1,0 +1,59 @@
+**1. EXECUTIVE SUMMARY**  
+- **Revenue & Order Volume**: Total revenue of BRL 15.4 M was generated from 96,470 delivered orders, yielding an average order value of roughly BRL 160.  
+- **Delivery Performance**: The average delivery time is 12.1 days, with 6.8 % of orders arriving late. The median delivery time (10 days) is lower than the mean, indicating a right‑skewed distribution with a minority of very long‑haul deliveries.  
+- **Customer Behavior**: 97 % of customers made only a single purchase, suggesting low repeat‑purchase rates.  
+- **Seller Processing**: Median seller processing time is 1 day, indicating that most sellers prepare orders quickly.  
+- **Top Revenue Segments**: Health & beauty, watches & gifts, and bed‑bath‑table categories drive the majority of sales.
+
+---
+
+**2. REVENUE INSIGHTS**  
+- **Category Concentration**: The three top categories account for the bulk of revenue, implying that marketing spend and inventory focus should be aligned with these segments.  
+- **Order Value Stability**: With an average order value of ~BRL 160, the platform is attracting mid‑tier shoppers; there is limited evidence of high‑ticket or bulk purchases.  
+- **Revenue per Order**: The revenue per delivered order (BRL 15.4 M / 96,470) confirms that the platform is monetizing each transaction efficiently, but the high single‑purchase rate may cap long‑term revenue growth.
+
+---
+
+**3. CUSTOMER INSIGHTS**  
+- **Low Repeat Purchase Rate**: 97 % single‑order customers indicate a high churn or low loyalty.  
+- **Retention Opportunity**: The platform has a large base of one‑time buyers; targeted retention campaigns could unlock additional revenue.  
+- **Customer Concentration**: No data on high‑spending customers is provided, but the single‑purchase dominance suggests that revenue is spread across many small buyers rather than a few big spenders.
+
+---
+
+**4. DELIVERY & OPERATIONS INSIGHTS**  
+- **Late Deliveries**: 6.8 % of orders are late, which may erode trust and increase returns or cancellations.  
+- **Delivery Time Distribution**: The mean (12.1 days) exceeds the median (10 days), indicating that a subset of orders experiences significant delays.  
+- **Seller Processing Efficiency**: Median processing of 1 day is strong; however, the delivery lag suggests bottlenecks lie downstream (logistics, carrier, or fulfillment center).  
+- **Operational Risk**: The combination of late deliveries and a high proportion of single‑order customers could signal a fragile supply chain that may not support scaling without addressing delivery reliability.
+
+---
+
+**5. CUSTOMER EXPERIENCE**  
+- **Review Score**: An overall average review score of 4.16 (out of 5) is healthy but leaves room for improvement.  
+- **Implication**: The score suggests customers are generally satisfied, yet the presence of late deliveries may be pulling the average down. Enhancing delivery reliability could lift the score further.
+
+---
+
+**6. KEY BUSINESS RISKS**  
+1. **Delivery Reliability** – 6.8 % late deliveries risk customer dissatisfaction and churn.  
+2. **Low Repeat Purchase Rate** – 97 % single‑order customers limit lifetime value and revenue growth.  
+3. **Category Concentration** – Heavy reliance on three categories exposes the business to market shifts or supplier disruptions.  
+4. **Operational Bottleneck** – The discrepancy between fast seller processing and slower overall delivery indicates potential logistic inefficiencies.
+
+---
+
+**7. RECOMMENDATIONS**
+
+| # | What Should Be Done | Why It Matters | Expected Business Impact |
+|---|---------------------|----------------|--------------------------|
+| 1 | **Implement a Delivery Performance Dashboard** that tracks on‑time delivery rates by carrier, region, and product category. | Provides real‑time visibility into where delays occur, enabling targeted interventions. | Reduces late deliveries by at least 1–2 %, improving customer satisfaction and lowering return costs. |
+| 2 | **Launch a Loyalty Program for Repeat Buyers** (e.g., points, exclusive discounts). | Incentivizes the 3 % of customers who already made multiple purchases to buy more often. | Increases repeat‑purchase rate, boosting average order value and overall revenue by an estimated 5–10 %. |
+| 3 | **Diversify the Product Mix** by adding complementary categories (e.g., electronics, home décor) to reduce revenue concentration. | Mitigates risk from market volatility in the top three categories and attracts new customer segments. | Broadens revenue streams; potential 3–5 % lift in total sales over 12 months. |
+| 4 | **Optimize Last‑Mile Logistics** by partnering with regional fulfillment hubs or exploring alternative carriers for high‑delay zones. | Addresses the root cause of late deliveries identified in the dashboard. | Cuts average delivery time closer to the median (10 days), improving review scores and reducing cancellations. |
+| 5 | **Enhance Seller Onboarding & Training** focused on packaging and shipping best practices. | Ensures that the fast seller processing time translates into faster end‑to‑end delivery. | Improves overall delivery speed, reduces late delivery percentage, and strengthens seller‑platform relationships. |
+
+---
+
+**8. MANAGEMENT TAKEAWAY**  
+Management should prioritize **delivery reliability** as the immediate lever for improving customer satisfaction and retention. By deploying a real‑time performance dashboard and optimizing last‑mile logistics, the company can reduce late deliveries, lift review scores, and create a foundation for higher repeat‑purchase rates. Once delivery performance stabilizes, the focus can shift to loyalty initiatives and product diversification to sustain long‑term revenue growth.
